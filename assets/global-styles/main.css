@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "shabnam";
+    src: url("../fonts/shabnam.ttf");
+    
+    }
+    body {
+        
+        padding : 0 ;
+        margin : 0 ;
+    }
+    
+    * {
+        direction: rtl;
+        font-family: "shabnam";
+    }
+    .blue {
+        color : #2185EA  ;
+    }
+    .dark-blue {
+        color : #334E67 ;
+    }
+    .big-text {
+        font-size: 2em;
+        margin-bottom: 20px;
+    }
+    div.header-text {
+        margin-top :30px; 
+    }
